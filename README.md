@@ -1,1 +1,1 @@
-This repo contains files worked on from y local pc
+This repo contains files worked on from my local pc
